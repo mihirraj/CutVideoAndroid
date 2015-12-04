@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MIhir\\Projects\\CutVideoAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\leftthumb.png",
+        "source": "E:\\MIhir\\Projects\\CutVideoAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\leftthumb.png"
+    },
+    {
+        "merged": "E:\\MIhir\\Projects\\CutVideoAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_feed_player_current_position.png",
+        "source": "E:\\MIhir\\Projects\\CutVideoAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_feed_player_current_position.png"
+    }
+]

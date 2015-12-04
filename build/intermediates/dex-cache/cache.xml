@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\MIhir\Projects\CutVideoAndroid-master\app\build\intermediates\exploded-aar\com.github.hiteshsondhi88.libffmpeg\FFmpegAndroid\0.2.5\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4ec92c631de57ff2a3e9c5c6bdcf723e7020a4c">
+        <dex dex="E:\MIhir\Projects\CutVideoAndroid-master\app\build\intermediates\pre-dexed\debug\com.github.hiteshsondhi88.libffmpeg-FFmpegAndroid-0.2.5_246f9c410bef9609d2b049ae1c216b0c42572a7b.jar" />
+    </item>
+
+</items>

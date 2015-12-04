@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0000ff</color>
+    <color name="blue_light">#00ffff</color>
+    <color name="green">#00ff00</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <dimen name="default_margin">20dp</dimen>
+    <string name="app_name">TwoThumbsSeekBarActivity</string>
+    <string name="device_not_supported">Device not supported</string>
+    <string name="device_not_supported_message">FFmpeg is not supported on your device</string>
+    <string name="shipped_ffmpeg_version">n2.4.2</string>
+</resources>
